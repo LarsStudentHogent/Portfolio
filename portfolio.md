@@ -11,7 +11,8 @@ Ik ben Lars Vervaele en ik ben een student toegepaste informatica aan de Hogesch
 Tijdens mijn laatste jaar van mijn opleiding heb ik gekozen voor een specialisatie in mainframe.
 Ik heb een grote interesse in software development en sinds mijn specializatie ook in de mainframe omgeving.
 Ik ben een probleem oplossend denker en hou van nieuwe uitdagingen.
-### CV
+
+###  Curriculum vitae
 
 [CV](CV_LarsVervaele.pdf)
 
@@ -67,9 +68,3 @@ programmeertalen:
 -Java, Javascript, NodeJS, C#, python, SQL
 
 
-## Talen
-
-Dit portfolio is beschikbaar in de volgende talen:
-
-- [Nederlands](Portfolio.md)
-- [Engels](Portfolio_eng.md)
