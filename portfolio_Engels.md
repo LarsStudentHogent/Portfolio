@@ -14,7 +14,7 @@ I am a problem-solving thinker who loves new challenges.
 
 ### Contact Information
 - Email: vervaelelars@outlook.com
-- LinkedIn: [linkedin.com/in/larsvervaele](https://www.linkedin.com/in/larsvervaele)
+- LinkedIn: [linkedin.com/in/larsvervaele](www.linkedin.com/in/lars-vervaele)
 
 ### Curriculum Vitae
 
