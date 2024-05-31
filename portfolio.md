@@ -4,13 +4,16 @@
 
 Naam: Lars Vervaele
 
-<img src="bijlage/foto.png" alt="Profielfoto" width="228" height="341">
+<img src="foto.png" alt="Profielfoto" width="228" height="341">
 
 ### Over Mij
 Ik ben Lars Vervaele en ik ben een student toegepaste informatica aan de Hogeschool Gent. 
 Tijdens mijn laatste jaar van mijn opleiding heb ik gekozen voor een specialisatie in mainframe.
 Ik heb een grote interesse in software development en sinds mijn specializatie ook in de mainframe omgeving.
 Ik ben een probleem oplossend denker en hou van nieuwe uitdagingen.
+### CV
+
+[CV](CV_LarsVervaele.pdf)
 
 ## Realisaties
 
